@@ -3,12 +3,4 @@
 }
 .skinHeader {
   background: linear-gradient(45deg, #239ad987, #8c67c682);
-  box-shadow: 0 0 0.5em 0.5em #9e60c440;
-}
-.cardBox {
-  background: linear-gradient(45deg, #239ad987, #8c67c682);
-  border-radius: 0 0.2em 0.2em;
-}
-.cardImageContainer {
-  border-radius: 0.2em 0.2em 0 0;
 }
